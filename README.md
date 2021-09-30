@@ -20,3 +20,5 @@ And used in the following pub:
 * I wrote this before I learned tidyverse, so please excuse the messy code.
 
 * I was never able to exactly replicate the results of the pubs that I used to make this code.  It can be improved. 
+
+* I would be especially cautious in interpreting predictions of the model when the sun is at an angle
