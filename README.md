@@ -1,6 +1,6 @@
 # limpet_heat_budget_model
 
-by Chris Bird 2019
+by Chris Bird, 2019
 
 ## Source
 This is a recreation of the limpet heat budget models described in the following pubs:
