@@ -17,7 +17,7 @@ And used in the following pub:
 
 ## Caveats
 
-* I wrote this before I learned tidyverse, so please excuse the messy code.
+* I wrote this before I learned the tidyverse philosophy
 
 * I was never able to exactly replicate the results of the pubs that I used to make this code.  It can be improved. 
 
